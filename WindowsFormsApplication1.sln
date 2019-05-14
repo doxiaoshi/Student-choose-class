@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "学生选课系统", "WindowsFormsApplication1\学生选课系统.csproj", "{5692B91D-44B2-4BF8-86F9-DE7F53F4C812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5692B91D-44B2-4BF8-86F9-DE7F53F4C812}.Debug|x86.ActiveCfg = Debug|x86
+		{5692B91D-44B2-4BF8-86F9-DE7F53F4C812}.Debug|x86.Build.0 = Debug|x86
+		{5692B91D-44B2-4BF8-86F9-DE7F53F4C812}.Release|x86.ActiveCfg = Release|x86
+		{5692B91D-44B2-4BF8-86F9-DE7F53F4C812}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
